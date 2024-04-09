@@ -65,9 +65,3 @@ def save_history(history):
     with open("history.txt", "w") as file:
         file.write(str(history))
         print("History saved !")
-
-
-
-#literal_eval : 
-     #https://www.geeksforgeeks.org/create-an-empty-file-using-python/   
-    #https://www.educative.io/answers/what-is-astliteralevalnodeorstring-in-python
