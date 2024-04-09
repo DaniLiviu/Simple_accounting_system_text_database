@@ -1,0 +1,1 @@
+['Total amount spend: 2000 Price: 500 Quantity bought: 7', 'Total amount spend: 1800 Price: 300 Quantity bought: 4']

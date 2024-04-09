@@ -1,0 +1,1 @@
+{'Laptops': {'price £': 800, 'quantity in stock': 6}, 'Phones': {'price £': 500, 'quantity in stock': 7}, 'Monitors': {'price £': 300, 'quantity in stock': 4}}
